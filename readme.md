@@ -4,3 +4,10 @@
 ```
 npm run app
 ```
+
+- To push changes to github type in:
+```
+git add .
+git commit -m "updating content"
+git push
+```
